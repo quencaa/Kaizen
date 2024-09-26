@@ -26,6 +26,121 @@
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "apple-icon-57x57.png",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "size" : "57x57"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "57x57"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "apple-icon-precomposed.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "apple-icon-60x60.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "apple-icon-72x72.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "size" : "72x72"
+    },
+    {
+      "filename" : "apple-icon-76x76.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "apple-icon-114x114.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "size" : "114x114"
+    },
+    {
+      "filename" : "apple-icon-120x120.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "size" : "120x120"
+    },
+    {
+      "filename" : "apple-icon-144x144.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "size" : "144x144"
+    },
+    {
+      "filename" : "apple-icon-152x152.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "size" : "152x152"
+    },
+    {
+      "filename" : "apple-icon-180x180.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "size" : "180x180"
+    },
+    {
+      "filename" : "apple-icon.png",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "unassigned" : true
     }
   ],
   "info" : {
