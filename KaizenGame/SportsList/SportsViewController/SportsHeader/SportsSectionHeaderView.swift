@@ -27,8 +27,7 @@ class SportsSectionHeaderView: UITableViewHeaderFooterView {
         titleLabel.font = .systemFont(ofSize: 18, weight: .bold)
         chevronImageView.image = UIImage(systemName: "chevron.down")
         chevronImageView.contentMode = .scaleAspectFit
-        
-        // Set up icon image view
+
         iconImageView.contentMode = .scaleAspectFit
         
         contentView.addSubview(iconImageView)

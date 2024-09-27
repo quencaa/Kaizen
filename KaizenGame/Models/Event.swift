@@ -11,6 +11,7 @@ struct Event: Codable {
     let sportID: String
     let eventName: String
     let eventStartTime: Int
+    var favorite: Bool = false
 
     enum CodingKeys: String, CodingKey {
         case eventID = "i"

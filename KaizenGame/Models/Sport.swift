@@ -10,7 +10,7 @@ import Foundation
 struct Sport: Codable {
     let sportID: String
     let sportName: String
-    let events: [Event]
+    var events: [Event]
 
     enum CodingKeys: String, CodingKey {
         case sportID = "i"
